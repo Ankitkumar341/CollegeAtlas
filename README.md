@@ -1,6 +1,7 @@
 # CollegeAtlas
 
 CollegeAtlas is a simple web application that allows users to search for colleges by name. The application fetches data from the [Hipolabs Universities API](http://universities.hipolabs.com/search?name=) and displays the results in a list.
+https://ankitkumar341.github.io/CollegeAtlas/
 
 ## Project Structure
 
