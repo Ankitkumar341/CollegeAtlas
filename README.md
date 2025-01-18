@@ -32,8 +32,10 @@ CollegeAtlas is a simple web application that allows users to search for college
 3. Click the "Search" button to fetch and display the list of colleges.
 
 ## Screenshots
-![alt text](<Screenshot 2025-01-18 152840.png>)
-![alt text](<Screenshot (101)-1.png>)
+![Screenshot 2025-01-18 152840](https://github.com/user-attachments/assets/2d4bafce-ed5d-4361-a004-e7db386c7a1b)
+![Screenshot (101)](https://github.com/user-attachments/assets/00629993-8d9f-4381-8389-59157acc1bf0)
+
+
 ## Dependencies
 
 - [Axios](https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js): A promise-based HTTP client for the browser.
